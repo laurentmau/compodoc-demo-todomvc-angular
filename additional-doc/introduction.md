@@ -1,6 +1,6 @@
 # Introduction
 
-This app is a simple todo list application. My modification.
+This app is a simple todo list application. My modification!
 
 ## Main features
 
